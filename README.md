@@ -1,1 +1,1 @@
-# Survey-TextMining-for-SpamDetection
+# Survey on the Use of Text Mining Techniques in Spam Detection
