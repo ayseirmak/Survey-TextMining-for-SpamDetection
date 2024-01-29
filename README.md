@@ -1,7 +1,7 @@
 # Survey on the Use of Text Mining Techniques in Spam Detection
 This study investigates the use of text mining techniques in spam detection. The study summarises the objectives, text pre-processing, feature extraction and classification methods, the datasets used, the results obtained and the findings of the studies conducted in the detection of comment spam, email spam and SMS spam in social network platforms. 
 As a result of the studies, it can be seen that three different feature extraction approaches, namely behavioural, linguistic and semantic, are preferred in spam detection. In text mining applications that started in the 2000s, semantic features have come to the fore in recent years and studies have shifted towards natural language processing. Text mining techniques continue to have the potential to provide cost-effective results for specific purposes with increasingly accessible high quality datasets and hybrid applications, and to support technologies such as information extraction and natural language processing.
-Text Mining Process
+
 In the literature, the text mining process is typically shown as follows.(Maheswari, 2015)
 <img width="558" alt="image" src="https://github.com/ayseirmak/Survey-TextMining-for-SpamDetection/assets/152956281/be84aae7-4e1d-4c22-962c-ad195c78670a">
 
